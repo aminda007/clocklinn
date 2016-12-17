@@ -1,5 +1,5 @@
 # clocklinn
-project done on clockInn budget hotel
+project done for clockInn budget hotel
 
 link
 http://clockinn.byethost12.com/
